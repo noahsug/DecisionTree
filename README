@@ -1,0 +1,7 @@
+A generic decision making algorithm that can return the best decision found so far at any point.
+
+The algorithm starts with a starting state that can be iterated on until the best decision has been made or enough time has gone by.
+
+Two test suites are included that show how it can be used to:
+ * Perform an A* pathfinding search
+ * Arrive at a given number by repeatedly performing multiplication, addition or subtraction of 3 on the starting value
